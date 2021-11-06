@@ -1,4 +1,13 @@
 #Homework 1
-#Printing my name
+"""
+Assignment 1
+	- Install python3
+	- Install visual code
+	- Create a python program that will print your full name
+	- Create github account
+	- Install and learn how to use git bash
+	- Upload your program to github using git bash
+	- Your program should be uploaded to github before Oct 23
+"""
 
 print("Michael Viernes")
